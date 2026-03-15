@@ -1,24 +1,26 @@
 # Naureen Naaz – Portfolio
 
-This repository contains my personal portfolio website built using HTML and CSS.
+This repository contains my personal portfolio website.
+Initially, the portfolio was created using **HTML only**, and later it was enhanced by adding **CSS for styling and better layout**.
 
-## About
-I am a Computer Science undergraduate passionate about programming, problem solving and software development.
-## Skills
-- C, C++, Python
-- SQL
-- HTML, CSS
-- Data Structures & Algorithms
-- Operating Systems, DBMS, Computer Architecture
-- Machine Learning (Basics)
+## Technologies Used
+- HTML
+- CSS
 
-## Projects
-- Simple Calculator (C++)
-- Number Guessing Game (C++)
-- Portfolio Website
+## Features
+- Personal introduction
+- Skills section
+- Education details
+- Projects showcase
+- Social links and contact information
 
-## Links
-GitHub
+## Author
+Naureen Naaz  
+Computer Science Undergraduate
+
+## Contact
+Email
+GitHub  
 LinkedIn
 
 ## Contact
